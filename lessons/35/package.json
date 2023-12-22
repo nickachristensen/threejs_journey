@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "lil-gui": "^0.19.0",
+    "spectorjs": "^0.9.29",
     "three": "^0.158.0"
   }
 }
